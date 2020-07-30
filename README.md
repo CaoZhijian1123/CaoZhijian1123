@@ -32,14 +32,16 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 -->
 
+# 仪表盘（Dashboard）
+
+[![CaoZhijian1123's github stats](https://github-readme-stats.vercel.app/api?username=CaoZhijian1123&theme=radical)](https://github-readme-stats.vercel.app/api?username=CaoZhijian1123&theme=radical)
+
 # 最近工作（What have I done recently）
 
 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-[![CaoZhijian1123's github stats](https://github-readme-stats.vercel.app/api?username=CaoZhijian1123&theme=radical)](https://github-readme-stats.vercel.app/api?username=CaoZhijian1123&theme=radical)
 
 # 社交网站（Social networking sites）
 
