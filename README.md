@@ -29,4 +29,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaoZhijian1123)](https://github.com/anuraghazra/github-readme-stats)
+![CaoZhijian1123's github stats](https://github-readme-stats.vercel.app/api?username=CaoZhijian1123)
