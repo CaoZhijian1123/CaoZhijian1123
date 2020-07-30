@@ -41,6 +41,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 <!--START_SECTION:waka-->
+
 ```text
 Java         12 hrs 7 mins   ███████████████░░░░░░░░░░   63.32 % 
 XML          4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   22.51 % 
@@ -54,19 +55,19 @@ SQL          0 secs          ░░░░░░░░░░░░░░░░░
 
 
 
-![bilibili](https://github.com/CaoZhijian1123/CaoZhijian1123/blob/master/README.assets/image-20200730180715201.png)     https://space.bilibili.com/350683936
+![bilibili](README.assets/bilibili.png)     https://space.bilibili.com/350683936
 
 
 
-![CSDN](https://github.com/CaoZhijian1123/CaoZhijian1123/blob/master/README.assets/image-20200730180732283.png)     https://console.blog.csdn.net/
+![CSDN](README.assets/csdn.png)     https://console.blog.csdn.net/
 
 
 
-![gitee.com](https://github.com/CaoZhijian1123/CaoZhijian1123/blob/master/README.assets/image-20200730180738317.png)     https://gitee.com/ZhijianCao_admin
+![gitee.com](README.assets/gitee.png)     https://gitee.com/ZhijianCao_admin
 
 
 
-![GitHub](https://github.com/CaoZhijian1123/CaoZhijian1123/blob/master/README.assets/image-20200730180745058.png)     https://github.com/CaoZhijian1123
+![GitHub](README.assets/GitHub.png)     https://github.com/CaoZhijian1123
 
 
 
