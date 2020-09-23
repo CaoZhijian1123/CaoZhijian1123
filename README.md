@@ -1,6 +1,6 @@
 ### Hi there 👋,welcome to my Github
 
-🌱 I’m currently learning Spring Framework
+🌱 I’m currently learning SSM
 
 <!--
 
