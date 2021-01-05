@@ -42,11 +42,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!--START_SECTION:waka-->
 ```text
-Java         8 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
-Vue.js       8 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-JavaScript   8 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
-HTML         3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Other        1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Vue.js       14 hrs 47 mins  █████████░░░░░░░░░░░░░░░░   35.69 % 
+Java         8 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.10 % 
+JavaScript   8 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+HTML         3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other        1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 <!--END_SECTION:waka-->
 
