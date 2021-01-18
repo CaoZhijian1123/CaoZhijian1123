@@ -42,11 +42,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       14 hrs 20 mins  ██████████████▓░░░░░░░░░░   58.19 % 
-Java         7 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   28.94 % 
-JavaScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-HTML         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Vue.js       14 hrs 4 mins   ██████████████▒░░░░░░░░░░   57.73 % 
+Java         7 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
+JavaScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+HTML         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 
