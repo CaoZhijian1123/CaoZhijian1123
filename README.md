@@ -42,7 +42,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!--START_SECTION:waka-->
 ```text
-
+Kotlin       2 mins          ███████████▒░░░░░░░░░░░░░   44.74 % 
+Java         2 mins          ██████████▓░░░░░░░░░░░░░░   42.19 % 
 ```
 <!--END_SECTION:waka-->
 
