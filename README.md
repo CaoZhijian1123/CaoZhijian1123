@@ -42,7 +42,8 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!--START_SECTION:waka-->
 ```text
-C++   25 mins         █████████████████████████   100.00 % 
+Python   3 hrs 39 mins   ██████████████████████▒░░   89.31 % 
+C++      25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
 <!--END_SECTION:waka-->
 
