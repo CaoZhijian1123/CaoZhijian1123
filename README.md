@@ -42,7 +42,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++      1 min           █████████████░░░░░░░░░░░░   52.52 % 
 ```
 <!--END_SECTION:waka-->
 
