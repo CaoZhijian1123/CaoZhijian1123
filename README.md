@@ -41,13 +41,16 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 <!--START_SECTION:waka-->
+
 ```text
-C++      9 hrs 51 mins   ███████████████░░░░░░░░░░   59.53 % 
-Python   3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Java     2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 % 
-SQL      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-C#       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+C++      7 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   47.22 %
+Python   5 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.61 %
+Java     2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+SQL      21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+C#       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+XAML     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
+
 <!--END_SECTION:waka-->
 
 # 社交网站（Social networking sites）
