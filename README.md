@@ -43,9 +43,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!--START_SECTION:waka-->
 
 ```text
-XAML     1 hr 18 mins    ████████████████▒░░░░░░░░   65.66 %
-C#       18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-Other    18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+XAML     4 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   43.17 %
+Java     2 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Other    1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
 ```
 
 <!--END_SECTION:waka-->
