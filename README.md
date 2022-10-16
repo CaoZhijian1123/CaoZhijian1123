@@ -43,7 +43,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
