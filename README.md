@@ -72,4 +72,4 @@ No activity tracked
 
 📫 How to reach me
 
-**邮箱(EMAIL)**:email:  caozj17@mails.tsinghua.edu.cn
+**邮箱(EMAIL)**:email:  thucaozj@outlook.com
