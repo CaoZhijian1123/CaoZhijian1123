@@ -58,11 +58,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!--START_SECTION:waka-->
 
 ```txt
-Other             34 hrs 47 mins  ████████████████████████▓   99.13 %
-Java              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-SQL               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-C++               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other             37 hrs 38 mins  ██████████████████████▒░░   89.44 %
+Java              3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown          1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Text              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+SQL               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
