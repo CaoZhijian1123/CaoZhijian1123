@@ -58,9 +58,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <!--START_SECTION:waka-->
 
 ```txt
-Other   15 hrs 4 mins   ███████████████████████░░   92.31 %
-XML     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Java    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Other   15 hrs 44 mins  ███████████████████████░░   92.62 %
+XML     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Java    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 SQL     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 HTML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
